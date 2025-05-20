@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Steven Guevara</h1>
 
-<p align="center">🎓 Estudiante de Ingeniería en Tecnologías de la Información | 🧠 Apasionado por el desarrollo frontend y la tecnología</p>
+<p align="center">🎓 Estudiante de Ingeniería en Tecnologías de la Información | 🧠 Apasionado por el desarrollo frontend, backend, servidores cloud y la tecnología en general</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryan-steven-guevara-pando-449abb322/" target="_blank">
@@ -15,9 +15,9 @@
 
 ### 🚀 Sobre mí
 
-- 👨‍💻 Soy un desarrollador **frontend** en formación, con experiencia en prácticas preprofesionales en proyectos reales.
+- 👨‍💻 Soy un desarrollador fullstack pero me gusta el **frontend** , con experiencia en prácticas preprofesionales en proyectos reales.
 - 🛠️ He trabajado en sistemas web para **gestión de granjas camaroneras**, plataformas sociales y herramientas internas empresariales.
-- 💬 Me encanta aprender nuevas tecnologías y mejorar la experiencia del usuario con interfaces limpias, rápidas y accesibles.
+- 💬 Me encanta aprender nuevas tecnologías y mejorar la experiencia del usuario con interfaces limpias, rápidas y accesibles, dandole una buena experiencia en uso.
 - 🌍 Vivo en **Pasaje, El Oro, Ecuador**.
 - 📚 Estudio Ingeniería en Tecnologías de la Información en la **Universidad Técnica de Machala**.
 
@@ -48,13 +48,9 @@
   Desarrollo frontend y backend de un módulo completo para monitoreo de producción y toma de decisiones.  
   Tecnologías: Angular, Node.js, PostgreSQL
 
-- 🌐 **Plataforma para organización social**  
+- 🌐 **Plataforma para organización social Movimiento de Mujeres del Oro (MMO)**  
   Diseño de interfaces dinámicas, validaciones complejas y consumo de APIs REST.  
-  Rol: Líder frontend | Tecnologías: Angular, Tailwind CSS
-
-- 🌐 **Sistema interno para empresa de telecomunicaciones**  
-  Configuración de redes, gestión de IPs y soporte básico a usuarios.  
-  Rol: Soporte técnico en prácticas
+  Rol: Líder frontend | Tecnologías: Angular, Tailwind CSS, PostgreSQL, typescript
 
 ---
 
@@ -66,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOTSTEVEN4000&theme=dark" />
 </p>
 
 ---
@@ -79,5 +75,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NOTSTEVEN4000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
