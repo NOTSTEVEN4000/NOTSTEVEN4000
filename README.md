@@ -9,7 +9,17 @@
   <a href="mailto:bsgp1986@gmail.com">
     <img src="https://img.shields.io/badge/Email-gmail-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
+  <a href="https://www.facebook.com/BryanGuevarapando/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="https://github.com/NOTSTEVEN4000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/steven_guevara_pando/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
 </p>
+
 
 ---
 
