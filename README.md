@@ -85,5 +85,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NOTSTEVEN4000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NOTSTEVEN4000&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
+
