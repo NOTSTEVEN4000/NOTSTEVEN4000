@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Steven Guevara</h1>
 
-<p align="center">🎓 Estudiante de Ingeniería en Tecnologías de la Información | 🧠 Apasionado por el desarrollo frontend, backend, servidores cloud y la tecnología en general</p>
+<p align="center">Ingeniero en Tecnologías de la Información | 🧠 Apasionado por el desarrollo frontend, backend, servidores cloud y la tecnología en general</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryan-steven-guevara-pando-449abb322/" target="_blank">
