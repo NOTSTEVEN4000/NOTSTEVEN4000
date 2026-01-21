@@ -29,7 +29,7 @@
 - 🛠️ He trabajado en sistemas web para **gestión de granjas camaroneras**, plataformas sociales y herramientas internas empresariales.
 - 💬 Me encanta aprender nuevas tecnologías y mejorar la experiencia del usuario con interfaces limpias, rápidas y accesibles, dandole una buena experiencia en uso.
 - 🌍 Vivo en **Pasaje, El Oro, Ecuador**.
-- 📚 Estudio Ingeniería en Tecnologías de la Información en la **Universidad Técnica de Machala**.
+- 📚 Ingeniero en Tecnologías de la Información.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
