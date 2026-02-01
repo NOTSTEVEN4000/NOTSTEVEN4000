@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Steven%20Guevara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A4BED8&height=200&section=header&text=Steven%20Guevara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3> 🚀 Ingeniero en TI | Especialista Frontend & Desarrollador Fullstack </h3>
   
